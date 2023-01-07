@@ -61,8 +61,8 @@
    }
 
    .failure{
-    padding-left: 81px;
-    padding-right: 178px;
+    padding-left: 40px;
+    padding-right: 200px;
     margin-top: 155px;
     margin-bottom: 160px;
     width: 584px;
@@ -93,7 +93,7 @@ color: #444343;
 
 }
 .failure-list{
-    margin-left: 30px;
+    margin-left: 80px;
     font-weight: 400;
     font-size: 16px;
     color: #444343;
